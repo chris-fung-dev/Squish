@@ -1,0 +1,33 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://cbie5a477dei5"
+path="res://.godot/imported/Electronic Highway Sign.TTF-15b9a40a5573555ad5a141439fb1e17f.fontdata"
+
+[deps]
+
+source_file="res://Slimes/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF"
+dest_files=["res://.godot/imported/Electronic Highway Sign.TTF-15b9a40a5573555ad5a141439fb1e17f.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
